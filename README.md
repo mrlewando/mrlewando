@@ -38,7 +38,7 @@ only satisfaction.
 #### FrontEnd:
 ![Angular](http://img.shields.io/badge/-Angular-b52e31?style=flat-square&logo=angular&logoColor=ffffff)
 ![HTML](http://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html&logoColor=FFFFFF)
-![SCSS](http://img.shields.io/badge/-SCSS-CD6799?style=flat-square&logo=scss&logoColor=FFFFFF)
+![SCSS](http://img.shields.io/badge/-SCSS-CD6799?style=flat-square&logo=sass&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=FFFFFF)
 ![jQuery](http://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=FFFFFF)
