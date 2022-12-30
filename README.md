@@ -36,13 +36,13 @@ only satisfaction.
 
 
 #### FrontEnd:
-![Angular](http://img.shields.io/badge/-Angular-b52e31?style=flat-square&logo=angular&logoColor=ffffff)
-![HTML](http://img.shields.io/badge/-HTML-e34f26?style=flat-square&logo=html&logoColor=FFFFFF)
+![VueJs](http://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![WordPress](http://img.shields.io/badge/-wordpress-21759B?style=flat-square&logo=wordpress&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/HTML%205-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SCSS](http://img.shields.io/badge/-SCSS-CD6799?style=flat-square&logo=sass&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=FFFFFF)
-![SCSS](http://img.shields.io/badge/-SCSS-CD6799?style=flat-square&logo=sass&logoColor=FFFFFF)
-![WordPress](http://img.shields.io/badge/-wordpress-CD6799?style=flat-square&logo=sass&logoColor=FFFFFF)
 
 #### Other:
 
@@ -51,10 +51,12 @@ only satisfaction.
 
 #### Editors and Operating Systems:
 
-![WebStorm](http://img.shields.io/badge/-WebStorm-10b0ec?style=flat-square&logo=webstorm&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 #### My projects:
 
 [Freepik (Persian .v)](https://freepik.ir/)<br>
+
 <hr/>
