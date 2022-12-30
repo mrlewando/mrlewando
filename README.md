@@ -41,7 +41,8 @@ only satisfaction.
 ![SCSS](http://img.shields.io/badge/-SCSS-CD6799?style=flat-square&logo=sass&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=FFFFFF)
-![jQuery](http://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=FFFFFF)
+![SCSS](http://img.shields.io/badge/-SCSS-CD6799?style=flat-square&logo=sass&logoColor=FFFFFF)
+![WordPress](http://img.shields.io/badge/-wordpress-CD6799?style=flat-square&logo=sass&logoColor=FFFFFF)
 
 #### Other:
 
